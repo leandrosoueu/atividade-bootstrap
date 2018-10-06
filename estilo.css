@@ -71,6 +71,7 @@ header{
 	.header-conteudo {
 		padding-left: 0;
 		padding-right: 0;
+		padding-top: 20px;
 	}
 	
 	.header-topo {
@@ -83,5 +84,7 @@ header{
 
 	.header-topo nav {
 		order: 1;
+		margin-bottom: 80px;
+		
 	}
 }
